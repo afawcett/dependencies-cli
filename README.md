@@ -1,7 +1,7 @@
-# DEPRECATED: dependencies-cli
+# &#x1F53B;&#x1F53B;&#x1F53B;DEPRECATED: dependencies-cli&#x1F53B;&#x1F53B;&#x1F53B;
 
 ***
-***This repo has moved to [https://github.com/forcedotcom/dependencies-cli](https://github.com/forcedotcom/dependencies-cli)***
+***This project has moved to [https://github.com/forcedotcom/dependencies-cli](https://github.com/forcedotcom/dependencies-cli)***.
 ***
 
 Sample command line utilities around the [Salesforce Dependencies API](https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_metadata_metadatacomponentdependency.htm). This API is currently in Pilot.
